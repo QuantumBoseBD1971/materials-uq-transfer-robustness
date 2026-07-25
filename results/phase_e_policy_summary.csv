@@ -1,0 +1,4 @@
+policy,attempted,constructed,operational_failure_rate,median_ood_coverage,median_ood_retained_mae
+geometry_descriptor_distance,45,45,0.4444444444444444,1.0,0.1313713839747806
+geometry_rf_distance_hybrid,45,45,0.4444444444444444,1.0,0.1313713839747806
+geometry_rf_ensemble_std,45,45,0.4444444444444444,1.0,0.1313713839747806

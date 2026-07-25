@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or research package, please cite the Zenodo record."
+title: "Reproducibility package for: Evaluating the Transfer of Frozen Uncertainty-Based Error Controls Across Materials Chemistry Shifts"
+type: software
+version: 1.0.0
+date-released: 2026-07-25
+authors:
+  - family-names: Uddin
+    given-names: Mohammed Munir
+    orcid: "https://orcid.org/0009-0003-0147-2202"
+contact:
+  - family-names: Uddin
+    given-names: Mohammed Munir
+    email: muniruddin514@outlook.com
+keywords:
+  - materials informatics
+  - uncertainty quantification
+  - selective regression
+  - distribution shift
+  - machine learning
+license: MIT
+abstract: >-
+  Code, deterministic split manifests, aggregate results, figures, and audit
+  documentation for a study of whether uncertainty-based acceptance thresholds
+  calibrated on familiar materials preserve absolute retained-set error targets
+  across element and composition-cluster shifts in two Matbench regression
+  tasks.

@@ -1,0 +1,3 @@
+representation,attempted,constructed,evaluable,risk_breaches,risk_breach_rate,operational_failures,operational_failure_rate,operational_failure_ci95_low,operational_failure_ci95_high,median_ood_coverage,median_ood_retained_mae
+composition_only,135,131,131,68,0.5190839694656488,68,0.5190839694656488,0.2222222222222222,0.8444444444444444,1.0,0.1504208758978776
+composition_plus_geometry,135,135,135,60,0.4444444444444444,60,0.4444444444444444,0.1111111111111111,0.7777777777777778,1.0,0.1313713839747806
