@@ -1,0 +1,24 @@
+{
+  "title": "Reproducibility package for: Evaluating the Transfer of Frozen Uncertainty-Based Error Controls Across Materials Chemistry Shifts",
+  "upload_type": "software",
+  "description": "Code, deterministic split manifests, transfer-level and aggregate results, figures, and audit documentation for a study of frozen uncertainty-based error-control transfer across element and composition-cluster shifts in two Matbench regression tasks. Original Matbench source records are not redistributed.",
+  "creators": [
+    {
+      "name": "Uddin, Mohammed Munir",
+      "orcid": "0009-0003-0147-2202",
+      "affiliation": "Independent Researcher, United Kingdom"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-07-25",
+  "license": "mit",
+  "keywords": [
+    "materials informatics",
+    "uncertainty quantification",
+    "selective regression",
+    "distribution shift",
+    "machine learning",
+    "Matbench"
+  ],
+  "access_right": "open"
+}
