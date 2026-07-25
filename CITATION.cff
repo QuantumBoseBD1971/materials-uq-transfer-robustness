@@ -7,13 +7,6 @@ date-released: 2026-07-25
 doi: "10.5281/zenodo.21545109"
 url: "https://doi.org/10.5281/zenodo.21545109"
 repository-code: "https://github.com/QuantumBoseBD1971/materials-uq-transfer-robustness"
-title: "Reproducibility package for: Evaluating the Transfer of Frozen Uncertainty-Based Error Controls Across Materials Chemistry Shifts"
-type: software
-version: 1.0.0
-date-released: 2026-07-25
-doi: "10.5281/zenodo.21545109"
-url: "https://doi.org/10.5281/zenodo.21545109"
-repository-code: "https://github.com/QuantumBoseBD1971/materials-uq-transfer-robustness"
 authors:
   - family-names: Uddin
     given-names: Mohammed Munir
