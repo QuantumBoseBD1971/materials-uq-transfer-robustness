@@ -90,10 +90,19 @@ Code in `src/` is released under the MIT License. Original documentation,
 figures, and result tables produced for this study are released under
 CC BY 4.0. See `LICENSE.md`.
 
+## Archived release
+
+Version 1.0.0 is permanently archived on Zenodo:
+
+[https://doi.org/10.5281/zenodo.21545109](https://doi.org/10.5281/zenodo.21545109)
+
 ## Citation
 
-Use the metadata in `CITATION.cff`. After the Zenodo record is published, cite
-the DOI displayed on the record.
+Please cite the archived release using:
+
+Mohammed Munir Uddin. *Frozen uncertainty controls across materials chemistry shifts*. Version 1.0.0. Zenodo, 2026. https://doi.org/10.5281/zenodo.21545109
+
+Machine-readable citation metadata is available in `CITATION.cff`.
 
 ## Contact
 
